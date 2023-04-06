@@ -21,6 +21,7 @@ Follow the below steps to configure the ActiveMQ plugin and the monitoring metri
     		     <managementContext createConnector="true" connectorPort="1099"/>
 		</managementContext>
 
+Please restart the ActiveMQ instance after making the above changes.
 
 ### Plugin installation
 ---
